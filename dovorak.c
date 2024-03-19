@@ -69,7 +69,7 @@ int dovorak2(){
 
     int  Z = 56;
       printf("%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p\n",
-            &P,&Y,&F,&G,&C,&R,&L,&A,&O,&E,&U,&I,&p,&H,&T,&N,&S,&Q,&J,&K,&X,&B,&M,&W,&V,&Z);
+            &P,&Y,&F,&G,&C,&R,&L,&A,&O,&E,&U,&I，&H,&T,&N,&S,&Q,&J,&K,&X,&B,&M,&W,&V,&Z);
     return dovorak2();
 }
 
